@@ -1,0 +1,59 @@
+**Passo a Passo sem o Visual Studio Code:**
+
+**Pré-requisitos:**
+1. Python instalado no seu sistema. Você pode baixá-lo e instalá-lo a partir do site oficial do Python: https://www.python.org/downloads/
+
+**Passo 1: Instalação do Python**
+- Baixe o instalador do Python do site oficial.
+- Execute o instalador e siga as instruções na tela.
+- Certifique-se de marcar a opção "Adicionar Python ao PATH" durante a instalação.
+
+**Passo 2: Instalação das Dependências**
+- Abra o prompt de comando (no Windows, pressione `Win + R`, digite `cmd` e pressione Enter).
+- Use o seguinte comando para instalar a biblioteca pandas:
+  ```
+  pip install pandas
+  ```
+- Isso instalará a biblioteca pandas necessária para executar o programa.
+
+**Passo 3: Execução do Programa**
+- Baixe o código do programa e salve-o em uma pasta no seu computador.
+- Abra o prompt de comando e navegue até o diretório onde o arquivo Python está salvo.
+- Digite o seguinte comando para executar o programa:
+  ```
+  python nome_do_arquivo.py
+  ```
+- O programa será executado e a interface gráfica do estoque de alimentos será exibida.
+
+**Passo a Passo Instalando o Visual Studio Code:**
+
+**Pré-requisitos:**
+1. Python instalado no seu sistema. Você pode baixá-lo e instalá-lo a partir do site oficial do Python: https://www.python.org/downloads/
+2. Visual Studio Code (VSCode) instalado. Você pode baixá-lo do site oficial: https://code.visualstudio.com/
+
+**Passo 1: Instalação do Python**
+- Siga os mesmos passos descritos no Passo 1 do primeiro tutorial.
+
+**Passo 2: Instalação do Visual Studio Code**
+- Baixe o instalador do Visual Studio Code do site oficial.
+- Execute o instalador e siga as instruções na tela.
+- Após a instalação, abra o VSCode.
+
+**Passo 3: Configuração do VSCode para Python**
+- No VSCode, vá para a seção de extensões clicando no ícone de quadrado na barra lateral esquerda.
+- Pesquise por "Python" na barra de pesquisa de extensões.
+- Instale a extensão "Python" oferecida pela Microsoft.
+- Após a instalação, você pode fechar a seção de extensões.
+
+**Passo 4: Abertura do Projeto**
+- No VSCode, clique em "File" (Arquivo) no menu superior e selecione "Open Folder" (Abrir Pasta).
+- Navegue até o diretório onde você salvou o código do programa e selecione a pasta.
+- O VSCode abrirá a pasta como um projeto.
+
+**Passo 5: Execução do Programa**
+- Abra o arquivo Python dentro do VSCode.
+- No canto superior direito da janela do VSCode, clique no botão de play verde ao lado do nome do arquivo.
+- Isso abrirá um terminal integrado ao VSCode e executará o programa.
+- A interface gráfica do estoque de alimentos será exibida.
+
+Seguindo esses passos, você poderá executar o programa de gestão de estoque de alimentos tanto sem quanto com o Visual Studio Code.
